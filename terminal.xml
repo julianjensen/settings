@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Users\Julian\ConEmu\ConEmu64.exe" />
+  </component>
+</application>

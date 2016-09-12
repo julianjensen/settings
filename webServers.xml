@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a14ef8e6-04c3-40ba-acf1-6cb569595c12" name="metel.dev" url="http://metel.dev">
+        <fileTransfer port="0" mountedRoot="T:\metel.us" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
