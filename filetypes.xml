@@ -18,6 +18,7 @@
       <mapping pattern=".jformatterrc" type="JSON" />
       <mapping pattern="manifests" type="JSON" />
       <mapping pattern=".gacrc" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="mem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
