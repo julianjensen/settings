@@ -1,25 +1,28 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="api-start" type="Bash" />
-      <mapping pattern="api-restart" type="Bash" />
-      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping pattern="deploy" type="Bash" />
+      <mapping pattern="example" type="Bash" />
+      <mapping pattern="production" type="Bash" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".restapirc" type="JSON" />
-      <mapping pattern="rest-service-DB-hierarchy" type="JSON" />
-      <mapping pattern=".jformatterrc" type="JSON" />
-      <mapping pattern="manifests" type="JSON" />
-      <mapping pattern=".gacrc" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="mem" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="npmrc" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

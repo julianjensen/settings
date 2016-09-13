@@ -132,7 +132,6 @@
           <content-type name="PL/SQL" enabled="true" />
           <content-type name="JavaScript" enabled="true" />
           <content-type name="YAML" enabled="true" />
-          <content-type name="Bash" enabled="true" />
         </content-types>
       </qualified-text-editor>
       <record-navigation>
@@ -346,7 +345,7 @@
         <always-show-controls value="false" />
       </compiler>
       <debugger>
-        <debugger-type value="JDBC" />
+        <debugger-type value="JDWP" />
         <use-generic-runners value="true" />
       </debugger>
     </operation-settings>

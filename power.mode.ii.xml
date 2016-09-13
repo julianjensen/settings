@@ -1,0 +1,10 @@
+<application>
+  <component name="PowerModeII">
+    <option name="enabled" value="false" />
+    <option name="flameLife" value="1430" />
+    <option name="keyStrokesPerMinute" value="306" />
+    <option name="maxFlameSize" value="193" />
+    <option name="shakeEnabled" value="false" />
+    <option name="sparksEnabled" value="false" />
+  </component>
+</application>
