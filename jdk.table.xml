@@ -3,7 +3,6 @@
     <jdk version="2">
       <name value="Kahlua" />
       <type value="Lua SDK" />
-      <version value="Kahlua" />
       <homePath value="" />
       <roots>
         <classPath>
@@ -20,7 +19,6 @@
     <jdk version="2">
       <name value="LuaJ" />
       <type value="Lua SDK" />
-      <version value="LuaJ" />
       <homePath value="" />
       <roots>
         <classPath>
