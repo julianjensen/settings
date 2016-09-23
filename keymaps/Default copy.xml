@@ -1,0 +1,28 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
+  <action id="DBNavigator.Actions.Execute" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Mongo.Shell.Execute" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+</keymap>
