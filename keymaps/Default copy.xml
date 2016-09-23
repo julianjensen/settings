@@ -18,9 +18,16 @@
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Mongo.Shell.Execute" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="ctrl enter" />
