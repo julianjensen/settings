@@ -5,21 +5,22 @@
       <mapping pattern="deploy" type="Bash" />
       <mapping pattern="example" type="Bash" />
       <mapping pattern="production" type="Bash" />
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="delete" type="PLAIN_TEXT" />
       <mapping pattern="editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
