@@ -1,4 +1,6 @@
 <code_scheme name="Default Again">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="220" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <DBN-PSQL>
     <case-options enabled="false">
