@@ -77,6 +77,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="elasticsearch-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_elasticsearch_elasticsearch.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_elasticsearch_elasticsearch.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="esprima-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -207,6 +218,17 @@
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongodb_mongodb.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="morgan-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_morgan_morgan.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_morgan_morgan.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
