@@ -4,12 +4,12 @@
       <HostingBean>
         <baseRestUri>http://bitbucket.corp.pvt/rest/api/latest/</baseRestUri>
         <baseUri>http://bitbucket.corp.pvt/</baseUri>
-        <id>a6434a44-a645-4d5d-9e07-9a26694181da</id>
+        <id>e0d65123-a439-4951-99dc-e0cd136b78d8</id>
         <type>SERVER</type>
       </HostingBean>
     </hostings>
     <accessMap>
-      <entry value="a6434a44-a645-4d5d-9e07-9a26694181da">
+      <entry value="e0d65123-a439-4951-99dc-e0cd136b78d8">
         <HostingAccessBean>
           <scheme>http</scheme>
           <host>bitbucket.corp.pvt</host>
