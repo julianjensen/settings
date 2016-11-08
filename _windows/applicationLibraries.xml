@@ -563,6 +563,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="pegjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_pegjs_pegjs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_pegjs_pegjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="prettyjson-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -571,6 +582,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_prettyjson_prettyjson.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="progress-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_progress_progress.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_progress_progress.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
