@@ -34,5 +34,9 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="Tool_External Tools_touch">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
   <action id="ViewSource" />
 </keymap>
