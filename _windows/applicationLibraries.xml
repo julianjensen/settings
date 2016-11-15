@@ -1,0 +1,756 @@
+<application>
+  <component name="libraryTable">
+    <library name="acorn-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_acorn_acorn.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_acorn_acorn.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ansi-styles-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ansi-styles_ansi-styles.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ansi-styles_ansi-styles.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="argparse-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_argparse_argparse.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_argparse_argparse.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="aws-sdk-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_aws-sdk_aws-sdk.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_aws-sdk_aws-sdk.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="benchmark-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_benchmark_benchmark.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_benchmark_benchmark.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bluebird-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird-1.0.d.ts" />
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird-1.0.d.ts" />
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="body-parser-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_body-parser_body-parser.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_body-parser_body-parser.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="browserify-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="canvasjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_canvasjs_canvasjs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_canvasjs_canvasjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="chai-as-promised-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai-as-promised_chai-as-promised.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai-as-promised_chai-as-promised.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="chai-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="chalk-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chalk_chalk.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chalk_chalk.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="commander-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_commander_commander.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_commander_commander.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="cors-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_cors_cors.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_cors_cors.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="domready-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_domready_domready.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_domready_domready.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dropzone-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_dropzone_dropzone.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_dropzone_dropzone.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="esprima-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_esprima_esprima.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_esprima_esprima.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="estree-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_estree_estree.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_estree_flow.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_estree_estree.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_estree_flow.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="express-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="express-serve-static-core-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express-serve-static-core_express-serve-static-core.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express-serve-static-core_express-serve-static-core.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="express-session-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express-session_express-session.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express-session_express-session.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="eyes-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_eyes_eyes.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_eyes_eyes.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fs-extra-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fs-extra_fs-extra.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fs-extra_fs-extra.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fs-extra-promise-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_fs-extra-promise_fs-extra-promise.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_fs-extra-promise_fs-extra-promise.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fullCalendar-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fullCalendar_fullCalendar.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fullCalendar_fullCalendar.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="glob-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_glob_glob.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_glob_glob.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-autoprefixer-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-autoprefixer_gulp-autoprefixer.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-autoprefixer_gulp-autoprefixer.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-sass-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-sass_gulp-sass.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-sass_gulp-sass.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gulp-sourcemaps-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-sourcemaps_gulp-sourcemaps.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gulp-sourcemaps_gulp-sourcemaps.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="handlebars-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_handlebars_handlebars.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_handlebars_handlebars.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="imagemagick-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_imagemagick_imagemagick.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jasmine-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="js-yaml-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_js-yaml_js-yaml.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_js-yaml_js-yaml.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jstree-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jstree_jstree.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jstree_jstree.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="lodash-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="marionette-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_marionette_marionette.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_marionette_marionette.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="method-override-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_method-override_method-override.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_method-override_method-override.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="minimatch-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_minimatch_minimatch.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_minimatch_minimatch.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="minimist-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_minimist_minimist.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_minimist_minimist.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mocha-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="modernizr-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Modernizr" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_modernizr_modernizr.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_modernizr_modernizr.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://www.modernizr.com/docs" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="moment-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_moment_moment.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mongodb-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mongodb_mongodb.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mongodb_mongodb.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mysql-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mysql_mysql.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mysql_mysql.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="node-ref" type="javaScript">
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="file://$USER_HOME$/code/work/node-structs/structs.d.ts" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="node-uuid-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-base.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-global.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-cjs.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-base.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-global.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid-cjs.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node-uuid_node-uuid.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="numeraljs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_numeraljs_numeraljs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_numeraljs_numeraljs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="passport-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport_passport.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="passport-facebook-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport-facebook_passport-facebook.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_passport-facebook_passport-facebook.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pegjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_pegjs_pegjs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_pegjs_pegjs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="prettyjson-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_prettyjson_prettyjson.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_prettyjson_prettyjson.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="progress-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_progress_progress.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_progress_progress.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pubsubjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_pubsubjs_pubsub.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_pubsubjs_pubsub.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="q-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_q_Q.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="raphael-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_raphael_raphael.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_raphael_raphael.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="redis-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_redis_redis.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_redis_redis.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="semver-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_semver_semver.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_semver_semver.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="socket.io-client-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_socket.io-client_socket.io-client.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="socket.io-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_socket.io_socket.io.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="sprintf-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_sprintf_sprintf.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="sprintf-js-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_sprintf-js_sprintf-js.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_sprintf-js_sprintf-js.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="superagent-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_superagent_superagent.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_superagent_superagent.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="typescript-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_typescript_typescript.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_typescript_typescript.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="typescript-services-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_typescript-services_typescriptServices.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_typescript-services_typescriptServices.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="uuid-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_uuid_UUID.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm9/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_uuid_UUID.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="websocket-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_websocket_websocket.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_websocket_websocket.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="xregexp-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_xregexp_xregexp.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_xregexp_xregexp.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="yamljs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_yamljs_yamljs.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebStorm10/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_yamljs_yamljs.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

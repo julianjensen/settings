@@ -1,0 +1,22 @@
+<application>
+  <component name="BitbucketHostingRegistry">
+    <hostings>
+      <HostingBean>
+        <baseRestUri>http://bitbucket.corp.pvt/rest/api/latest/</baseRestUri>
+        <baseUri>http://bitbucket.corp.pvt/</baseUri>
+        <id>e4a2601e-d5a7-404f-aa71-ccdca6451924</id>
+        <type>SERVER</type>
+      </HostingBean>
+    </hostings>
+    <accessMap>
+      <entry value="e4a2601e-d5a7-404f-aa71-ccdca6451924">
+        <HostingAccessBean>
+          <scheme>http</scheme>
+          <host>bitbucket.corp.pvt</host>
+          <port>-1</port>
+          <path />
+        </HostingAccessBean>
+      </entry>
+    </accessMap>
+  </component>
+</application>

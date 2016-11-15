@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49190735-42d8-464b-97bf-e085adf421c1" name="metel.web" url="http://metel.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ede1c8dd-0f5f-4255-abec-252b8de23f58" name="metel.server" url="http://metel.dev:3000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="db2dc40c-fa37-412c-ab46-a6cd59e82091" name="local9000" url="http://localhost:9000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

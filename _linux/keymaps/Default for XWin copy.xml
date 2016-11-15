@@ -1,0 +1,49 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Start.Use.Vcs">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_quote" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="armory.activateArmory">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="clear" />
+    <keyboard-shortcut first-keystroke="begin" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="armory.box.DeleteTree" />
+  <action id="armory.showProjectSwitcher">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+</keymap>
