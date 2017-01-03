@@ -4,8 +4,10 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.json" />
+        <option value="scratch1.js" />
+        <option value="slack.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="slack.md" />
   </component>
 </application>
