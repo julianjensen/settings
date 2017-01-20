@@ -1,10 +1,9 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Console.Execute.Multiline" />
-  <action id="DBNavigator.Actions.Execute" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
