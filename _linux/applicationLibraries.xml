@@ -68,14 +68,15 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="RestAPIError" type="javaScript">
+    <library name="node_modules" type="javaScript">
       <properties>
+        <option name="frameworkName" value="node_modules" />
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/code/api-error" />
+          <item url="file://$USER_HOME$/code/rest-api/server/node_modules/api-error" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/code/api-error" />
+        <root url="file://$USER_HOME$/code/rest-api/server/node_modules/api-error" />
       </CLASSES>
       <SOURCES />
     </library>
