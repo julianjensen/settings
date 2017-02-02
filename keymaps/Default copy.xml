@@ -10,6 +10,9 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Mongo.Shell.Execute" />
   <action id="RunCommandAction" />
   <action id="ScanKeysAction" />
@@ -28,5 +31,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="ViewSource" />
 </keymap>
