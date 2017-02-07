@@ -11,7 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="services" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.js, *.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,6 +25,8 @@
       <mask>*.js,*.json</mask>
       <mask>*.json</mask>
       <mask>*.js</mask>
+      <mask>*.js *.json</mask>
+      <mask>*.js, *.json</mask>
     </recentFileMasks>
   </component>
 </application>
