@@ -10,6 +10,14 @@
       <webServer id="db2dc40c-fa37-412c-ab46-a6cd59e82091" name="local9000" url="http://localhost:9000">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="4ad4b640-082c-4e7c-a0fc-6e36e76ca95b" name="webserver" url="https://mindmymedz.ronincode.com">
+        <fileTransfer host="webserver" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
