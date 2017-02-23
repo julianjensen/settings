@@ -3,13 +3,11 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="&amp;scratch.txt" />
-        <option value="scratch&amp;2.txt" />
-        <option value="scratch&amp;3.xml" />
-        <option value="scratch&amp;4.xml" />
+        <option value="scratch.json" />
+        <option value="scratch1.js" />
+        <option value="slack.md" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="slack.md" />
-    <option name="needMigration" value="false" />
   </component>
 </application>
