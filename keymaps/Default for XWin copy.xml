@@ -4,11 +4,6 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CopyElement" />
-  <action id="DBNavigator.Actions.Execute">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -41,7 +36,6 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
-  <action id="UML.ApplyCurrentLayout" />
   <action id="armory.activateArmory">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="clear" />
