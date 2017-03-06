@@ -1,14 +1,16 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="services" />
-    <option name="defaultScopeName" value="services" />
+    <option name="customScope" value="server" />
+    <option name="defaultScopeName" value="server" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="services" />
+    <option name="SEARCH_SCOPE" value="server" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
