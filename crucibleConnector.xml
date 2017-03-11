@@ -1,6 +1,0 @@
-<application>
-  <component name="CrucibleSettings">
-    <option name="SERVER_URL" value="http://fisheye.corp.pvt" />
-    <option name="USERNAME" value="julian" />
-  </component>
-</application>
