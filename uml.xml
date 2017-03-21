@@ -1,0 +1,9 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="JavaScript-modules-diagram" categories="All" />
+      </map>
+    </option>
+  </component>
+</application>

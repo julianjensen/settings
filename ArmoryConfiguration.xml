@@ -1,0 +1,24 @@
+<application>
+  <component name="ArmoryConfiguration">
+    <option name="TREENODE_SHOW_METHOD_TYPE" value="true" />
+    <option name="TREENODE_SHOW_METHOD_ARGS" value="true" />
+    <option name="TREENODE_SHOW_FIELD_TYPE" value="true" />
+    <option name="TREENODE_SHOW_FIELD_VALUE" value="true" />
+    <sortingScheme>
+      <context name="files" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="folder" />
+          <node name="file" />
+        </scheme>
+      </context>
+    </sortingScheme>
+    <licenses>
+      <license>jn30T5vVMrmw0T1IWP2xXkGOmzlyU/+pBxZEIlajTALiw2H91Z/FITMXF70m9L/mUJgGmLG9DXdY
++TCpAywa0HKcfYa5D96Iyv22K7n6qR6KeYPFP8DftKPH8WSHahXIkDP9JTFcs7R71QtNGG2hog3K
+O8gP3oYtPLB+UMHCtE9udW1iZXI6NDM0NDgzCnRpdGxlOlRyaWFsIExpY2Vuc2UKdHlwZTpjb21t
+b24KbGV2ZWw6dHJpYWwKcGxhdGZvcm06V2ViU3Rvcm0KZmVhdHVyZXM6YmFzZQpleHBpcmU6MTQ1
+MTMxODYzMg==</license>
+    </licenses>
+  </component>
+</application>

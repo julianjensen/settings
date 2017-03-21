@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Windows\System32\bash.exe ~" />
+    <option name="mySoundBell" value="false" />
+    <option name="myOverrideIdeShortcuts" value="false" />
+  </component>
+</application>
