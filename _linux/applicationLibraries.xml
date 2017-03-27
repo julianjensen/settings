@@ -77,6 +77,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="kitchen-sink" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/code/kitchen-sink/index.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/code/kitchen-sink/index.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="lodash-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
