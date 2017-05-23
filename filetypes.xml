@@ -11,6 +11,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="create-docs" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
