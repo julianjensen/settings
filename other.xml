@@ -1,0 +1,59 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.5.0" last-modified="1505239744000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="http://gitlab.ronincode.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>df93dfd2dfc0dfffdf98dffcdfc5df9cdfdbdfd2dfffdfc3df87dfc5dfccdfc3dfc3df92dfe9dfdf</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+    <pattern>c:*</pattern>
+    <pattern>596a05904b4b6d35089b6b86</pattern>
+    <pattern>c:**</pattern>
+    <pattern>598ca04e8a187423106be564</pattern>
+    <pattern>c:3acdbb48b01e464ea910f7ff2fb30906</pattern>
+    <pattern>3acdbb48b01e464ea910f7ff2fb30906</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="support" host="192.168.1.18" port="6379" password="" timestamp="1501868746486" />
+    </servers>
+  </component>
+</application>

@@ -6,11 +6,13 @@
       <homePath value="" />
       <roots>
         <classPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" type="simple" />
+          </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -22,11 +24,13 @@
       <homePath value="" />
       <roots>
         <classPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" type="simple" />
+          </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" type="simple" />
           </root>
         </sourcePath>
       </roots>
