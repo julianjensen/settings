@@ -1,4 +1,4 @@
-<code_scheme name="Default Again">
+<code_scheme name="Default Again" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="220" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
@@ -27,9 +27,10 @@
     </formatting-settings>
   </DBN-SQL>
   <JSCodeStyleSettings>
+    <option name="SPACE_AFTER_GENERATOR_MULT" value="false" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
