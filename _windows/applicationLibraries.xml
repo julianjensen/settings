@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/escodegen" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/esprima" type="javaScript">
       <CLASSES />
       <SOURCES />
