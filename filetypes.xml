@@ -4,9 +4,9 @@
       <mapping pattern=".bash_prompt" type="Bash" />
       <mapping pattern="coverage" type="Bash" />
       <mapping pattern=".functions" type="Bash" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -21,6 +21,10 @@
       <mapping pattern="sift" type="PLAIN_TEXT" />
       <mapping ext="pegjs" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
+      <mapping ext="tmlanguage" type="XML" />
+      <mapping ext="yaml-tmtheme" type="YAML" />
+      <mapping ext="yaml-tmlanguage" type="YAML" />
+      <mapping ext="yaml-tmpreferences" type="YAML" />
     </extensionMap>
   </component>
 </application>
